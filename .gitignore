@@ -1,0 +1,42 @@
+# =========================
+# OS
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Editors & IDEs
+# =========================
+
+# JetBrains IDEs (IntelliJ, WebStorm, etc.)
+.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Cursor / Copilot / AI tooling
+copilot.data.migration.agent.xml
+
+# =========================
+# Temporary / Backup files
+# =========================
+*.log
+*.tmp
+*.swp
+*.bak
+*~
+
+# =========================
+# Node / tooling (future-proof)
+# =========================
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
