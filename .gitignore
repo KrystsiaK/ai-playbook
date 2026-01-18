@@ -9,7 +9,7 @@ Thumbs.db
 # =========================
 
 # JetBrains IDEs (IntelliJ, WebStorm, etc.)
-.idea/
+/.idea/
 *.iml
 
 # VS Code
